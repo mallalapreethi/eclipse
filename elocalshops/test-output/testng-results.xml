@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-25T09:40:49 IST" name="Suite" finished-at="2021-10-25T09:41:06 IST" duration-ms="16877">
+    <groups>
+    </groups>
+    <test started-at="2021-10-25T09:40:49 IST" name="Test" finished-at="2021-10-25T09:41:06 IST" duration-ms="16877">
+      <class name="com.elocalshops.runner.ElocalshopsApp">
+        <test-method is-config="true" signature="startup()[pri:0, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:40:49 IST" name="startup" finished-at="2021-10-25T09:40:49 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:40:49 IST" name="beforeClass" finished-at="2021-10-25T09:40:51 IST" duration-ms="1635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:40:51 IST" name="beforeMethod" finished-at="2021-10-25T09:40:55 IST" duration-ms="4350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginTest()[pri:1, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:40:55 IST" name="loginTest" finished-at="2021-10-25T09:40:59 IST" duration-ms="4081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:40:59 IST" name="beforeMethod" finished-at="2021-10-25T09:41:02 IST" duration-ms="2195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchItemTest()[pri:2, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:41:02 IST" name="searchItemTest" finished-at="2021-10-25T09:41:05 IST" duration-ms="3743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemTest -->
+        <test-method is-config="true" signature="classTeardown()[pri:0, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:41:06 IST" name="classTeardown" finished-at="2021-10-25T09:41:06 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTeardown -->
+        <test-method is-config="true" signature="suiteTeardown()[pri:0, instance:com.elocalshops.runner.ElocalshopsApp@6cd28fa7]" started-at="2021-10-25T09:41:06 IST" name="suiteTeardown" finished-at="2021-10-25T09:41:06 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTeardown -->
+      </class> <!-- com.elocalshops.runner.ElocalshopsApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
