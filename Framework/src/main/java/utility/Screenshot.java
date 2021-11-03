@@ -15,7 +15,7 @@ import reusableComponents.WebDriverHelper;
  
 public class Screenshot extends WebDriverHelper { 
 	//public WebDriver driver;
-	public void getss(String result ) throws IOException
+	public static void getss(String result ) throws IOException
 	{
 		TakesScreenshot ts=((TakesScreenshot) driver);
 	File srcFile=ts.getScreenshotAs(OutputType.FILE);
